@@ -1,8 +1,9 @@
 **Telia 2024 Andmeteaduse Praktika Kodutöö**
 
 
-Klientide käitumise ennustamine ja muudatusettepanekud selle vältimiseks
-See projekt keskendub klientide käitumise ennustamisele, eesmärgiga töötada välja strateegiad nende hoidmiseks. Allpool on kirjeldatud projekti põhietapid ja tegevused.
+Klientide käitumise ennustamine ja muudatusettepanekud nende lahkumise vältimiseks.
+See projekt keskendub klientide käitumise ennustamisele, eesmärgiga töötada välja strateegiad nende säilitamiseks. 
+Allpool on kirjeldatud projekti põhietapid ja tegevused:
 
 1.Andmete töötlemine
 	•	Andmete laadimine
@@ -42,6 +43,7 @@ See projekt keskendub klientide käitumise ennustamisele, eesmärgiga töötada 
 	•	Kasutades XGBoost mudelit, mis on osutunud efektiivseks keeruliste mustrite tuvastamisel
 	•	Tähtsate tunnuste väljaselgitamine
 	•	Tunnuste tähtsuse analüüsimine ja visualiseerimine
+ 
 Kokkuvõte
 	•	Projekti kokkuvõtte ja järelduste esitamine, pakkudes insight'e kliendi lahkumise ennustamise kohta ja ettepanekuid klientide hoidmise strateegiateks
 
